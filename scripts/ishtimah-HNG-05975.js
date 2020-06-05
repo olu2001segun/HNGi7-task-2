@@ -1,1 +1,1 @@
-console.log("Hello World, this is Fatimah Neematallahi Is'haq with HNGi7 ID HNG-05975 and email ishtimah@gmail.com using JavaScript for stage 2 task");
+console.log("Hello World, this is Fatimah Neematallahi Ishaq with HNGi7 ID HNG-05975 and email ishtimah@gmail.com using JavaScript for stage 2 task");

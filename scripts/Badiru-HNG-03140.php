@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World, this is Badiru Sulaimon with HNG-03140 using PHP for stage 2 task";
+echo "Hello World, this is Badiru Sulaimon with HNGi7 ID HNG-03140 and email badirusulaimon27@gmail.com using PHP for stage 2 task";
 
 ?>

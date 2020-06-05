@@ -1,5 +1,9 @@
-name = "Bamidele oluwatosin"
-id = "00281"
+first_name = "Oluwatosin"
+last_name = "Bamidele"
+ID = "HNG-00281"
+email = "tomisinkemi468@gmail.com"
 language = "python"
-email_address = "tomisinkemi468@gmail.com"
-output = f"My name is {name} with HNGi7 ID {id} using {language} for stage 2 task {email_address}"
+
+output = f"Hello world, this is {first_name} {last_name} with HNGi7 ID {ID} and {email} using {language} for stage 2 task"
+
+print(output)

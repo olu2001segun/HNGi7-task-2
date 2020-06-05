@@ -1,9 +1,9 @@
+const fullname = 'Olanrewaju Tolulope';
+const id = 'HNG-00377';
+const email = 'tolulopeolanrewaju8@gmail.com';
+const language = 'javascript';
 
-	const task2 = (fullname, id, email, language) => {
-
-	return `Hello world this is ${fullname} with HNGi7 id ${id} and email ${email} using  ${language} for stage 2 task`
-
-
+task2();
+function task2() {
+	console.log(`Hello World, this is ${fullname} with HNGi7 ID ${id} and email ${email} using ${language} for Stage 2 task`);
 }
-
-task2('Olanrewaju Tolulope', 'HNG-00377','tolulopeolanrewaju8@gmail.com','javascript')

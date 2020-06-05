@@ -8,5 +8,5 @@ function printTask2Info(){
         scriptLanguage = "JavaScript",
         myEmail = "simeonkenneth3@gmail.com";
 
-    return (`Hello World, this is ${myFullName} with HNGi7 ID ${myHNGId} and email ${myEmail} using ${scriptLanguage} for stage 2 task`);
+    return console.log(`Hello World, this is ${myFullName} with HNGi7 ID ${myHNGId} and email ${myEmail} using ${scriptLanguage} for stage 2 task`);
 };

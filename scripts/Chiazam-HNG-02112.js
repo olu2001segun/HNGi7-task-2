@@ -10,5 +10,5 @@ let internEmail = 'ochiazam@gmail.com'; // the interns e-mail address
 
 
 //Displays the full intern information
-console.log("Hello World, this is " + internName + " with HNGi7 ID " + internID + " and email " + internEmail + " using " + programLangauge + " for stage 2 task.");
+console.log("Hello World, this is " + internName + " with HNGi7 ID " + internID + " and email " + internEmail + " using " + programLangauge + " for stage 2 task");
 

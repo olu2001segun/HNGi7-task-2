@@ -1,5 +1,5 @@
 var fullName = "Chiamaka Uche";
-var myHngi7id = "HNGi7-01276";
+var myHngi7id = "HNG-01276";
 var myEmail = "chiamakairene.u@gmail.com";
 var myLanguage = "Javascript"
 

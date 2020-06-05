@@ -1,11 +1,11 @@
-// To start I'll create my details as variables
-var myFullname = 'Jessica Adaku Ugwu';
-var myID = 'HNG-06241';
-var myLanguage = 'JavaScript';
-var myMail = 'adaugwu10@gmail.com'; 
+const myName = "Jessica Adaku Ugwu";
+const myId = "HNG-06241";
+const myEmail = "adaugwu10@gmail.com";
+const myLang = "Javascript"
+ 
 
-// Create sentence by inserting variables in place
-var myScript = "Hello World, this is "+ myFullname + " with HNGi7 ID " + myID + ' and e-mail ' + myMail + " using "  + myLanguage +" for Stage Task 2.";
+function myDetails() {
+    console.log(`Hello World, this is ${myName} with HNGi7 ID ${myId} and email ${myEmail} using ${myLang} for stage 2 task`); 
+} 
 
-//Print the final result
-document.write(myScript);
+myDetails() 

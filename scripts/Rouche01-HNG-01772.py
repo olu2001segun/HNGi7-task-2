@@ -8,6 +8,6 @@ intern_details = {
 
 
 def output_details(details):
-    print(f'Hello World, this is {details["name"]} with HNGi7 ID {details["hng_id"]} using {details["language"]} for stage 2 task')
+    print(f'Hello World, this is {details["name"]} with HNGi7 ID {details["hng_id"]} and email {details["email"]} using {details["language"]} for stage 2 task')
 
 output_details(intern_details)

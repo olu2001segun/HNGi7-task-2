@@ -1,20 +1,18 @@
 class User {
-    constructor(firstname, lastname, language, id, email ) {
-        this.firstname= firstname;
-        this.lastname= lastname;
+    constructor(fullname, language, id, email ) {
+        this.fullname= fullname
         this.language= language;
         this.id= id;
         this.email =email;
 }
 sayHello ( ) {
-    let outputMessage  = `Hello World , this is ${this.firstname} ${this.lastname} with HNGi7 ID ${this.id} and email ${this.email} using ${this.language} for stage 2 task`;
+    let outputMessage  = `Hello World, this is ${this.fullname} with HNGi7 ID ${this.id} and email ${this.email} using ${this.language} for stage 2 task`;
 return outputMessage;
    }
 } 
 const me = new User(
-    "Grace",
-    "Idumah",
-    "javascript",
+    "Grace Idumah",
+    "Javascript",
     "HNG-03023",
     "idumahgrace@yahoo.com",
 );

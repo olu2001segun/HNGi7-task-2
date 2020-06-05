@@ -7,4 +7,4 @@ const details = {
     "course":"JavaScript"
 }
 
-console.log(`Hello world,this is ${details.name} with HNGi7 ID ${details.id} and email ${details.email} using ${details.course} for stage 2 task`);
+console.log(`Hello World, this is ${details.name} with HNGi7 ID ${details.id} and email ${details.email} using ${details.course} for stage 2 task`);

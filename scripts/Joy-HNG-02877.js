@@ -1,5 +1,5 @@
 var greeting = "Hello World, " ;
-var name = " Joy ";
+var name = " Joy Odeyemi ";
 var id = " HNG-02877 ";
 var email = " joybella4eva@gmail.com ";
 var language = " JavaScript ";

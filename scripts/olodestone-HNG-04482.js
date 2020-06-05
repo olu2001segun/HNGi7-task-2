@@ -1,9 +1,10 @@
 //stage 1 task
 
-
-const fullName = 'olodeokuta lateef';
-const id = 'HNG-04482';
+const fullName = 'Olodeokuta Lateef';
+const hngId = 'HNG-04482';
 const language = 'javascript';
 const email = 'olodeokuta@gmail.com';
 
-console.log('This is ' + fullName + 'with HNG ID ' + id + 'and' + email + 'using' + language + 'for stage 2 task');
+const output = 'Hello world, This is ' + fullName + ' with HNGi7 ID ' + hngId + ' and email ' + email + ' using ' + language + ' for stage 2 task ';
+
+return console.log(output);

@@ -1,1 +1,1 @@
-console.log("Hello WOrld this is Taiwo Hammed with HNGi7 ID HNG-00649 and email hammedt20@gmail.com usimg javascript for stage 2 task");
+console.log ("Hello World, this is Taiwo Hammed with HNGi7 ID HNG-00649 and email hammedt20@gmail.com usimg javascript for stage 2 task");
